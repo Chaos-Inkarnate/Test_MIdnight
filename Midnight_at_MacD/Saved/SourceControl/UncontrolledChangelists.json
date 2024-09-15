@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/YGoyani/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/2nd_Floor_Lighting.umap",
+				"C:/Users/YGoyani/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/Enemy/BP_Eleven.uasset",
+				"C:/Users/YGoyani/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/YGoyani/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/FirstPerson/Blueprints/BP_Chair.uasset",
+				"C:/Users/YGoyani/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/FirstPerson/Blueprints/BP_Card.uasset",
+				"C:/Users/YGoyani/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/FirstPerson/Blueprints/BP_Door.uasset",
 				"C:/Users/mburdin/Documents/GitHub/Banty-school-Design-Technology/Midnight_at_MacD/Content/2nd_Floor.umap",
 				"C:/Users/mburdin/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/2nd_Floor_Lighting.umap",
 				"C:/Users/mburdin/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/MACD_models/Red_SofaChair.uasset",
