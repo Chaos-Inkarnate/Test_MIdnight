@@ -5,19 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/KALPOSTERS.umap",
-				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__1__Mat.uasset",
-				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__5_.uasset",
-				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__1_.uasset",
-				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__2_.uasset",
-				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__3_.uasset",
-				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__4_.uasset",
-				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__3__Mat.uasset",
-				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__2__Mat.uasset",
-				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__4__Mat.uasset",
-				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__5__Mat.uasset",
-				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/CurfewPoster.uasset",
-				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/CurfewPoster_Mat.uasset",
 				"C:/Users/mburdin/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/Banty.umap",
 				"C:/Users/mburdin/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/2__2__Mat.uasset",
 				"C:/Users/mburdin/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/sdfsdfsdfsdfsdf_Mat.uasset",
@@ -49,7 +36,21 @@
 				"C:/Users/mburdin/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/StarterContent/Textures/Material_Instance.uasset",
 				"C:/Users/mburdin/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/M_Hologram_Tiedtke/T_White.uasset",
 				"C:/Users/mburdin/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/T_White.uasset",
-				"C:/Users/mburdin/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/StarterContent/Textures/test.uasset"
+				"C:/Users/mburdin/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/StarterContent/Textures/test.uasset",
+				"C:/Users/mburdin/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/Back-up-Level.umap",
+				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/KALPOSTERS.umap",
+				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__1__Mat.uasset",
+				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__5_.uasset",
+				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__1_.uasset",
+				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__2_.uasset",
+				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__3_.uasset",
+				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__4_.uasset",
+				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__3__Mat.uasset",
+				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__2__Mat.uasset",
+				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__4__Mat.uasset",
+				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/fgsgsfgsdfsdf__5__Mat.uasset",
+				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/CurfewPoster.uasset",
+				"C:/Users/vvarra/Documents/GitHub/Test_MIdnight/Midnight_at_MacD/Content/LevelPrototyping/Textures/CurfewPoster_Mat.uasset"
 			]
 		}
 	]
